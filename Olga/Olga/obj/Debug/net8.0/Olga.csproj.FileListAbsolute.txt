@@ -1,0 +1,14 @@
+C:\Users\soren\source\repos\Olga\Olga\obj\Debug\net8.0\Olga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soren\source\repos\Olga\Olga\obj\Debug\net8.0\Olga.AssemblyInfoInputs.cache
+C:\Users\soren\source\repos\Olga\Olga\obj\Debug\net8.0\Olga.AssemblyInfo.cs
+C:\Users\soren\source\repos\Olga\Olga\obj\Debug\net8.0\Olga.csproj.CoreCompileInputs.cache
+C:\Users\soren\source\repos\Olga\Olga\bin\Debug\net8.0\Olga.exe
+C:\Users\soren\source\repos\Olga\Olga\bin\Debug\net8.0\Olga.deps.json
+C:\Users\soren\source\repos\Olga\Olga\bin\Debug\net8.0\Olga.runtimeconfig.json
+C:\Users\soren\source\repos\Olga\Olga\bin\Debug\net8.0\Olga.dll
+C:\Users\soren\source\repos\Olga\Olga\bin\Debug\net8.0\Olga.pdb
+C:\Users\soren\source\repos\Olga\Olga\obj\Debug\net8.0\Olga.dll
+C:\Users\soren\source\repos\Olga\Olga\obj\Debug\net8.0\refint\Olga.dll
+C:\Users\soren\source\repos\Olga\Olga\obj\Debug\net8.0\Olga.pdb
+C:\Users\soren\source\repos\Olga\Olga\obj\Debug\net8.0\Olga.genruntimeconfig.cache
+C:\Users\soren\source\repos\Olga\Olga\obj\Debug\net8.0\ref\Olga.dll
